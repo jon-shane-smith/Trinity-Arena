@@ -1,0 +1,5 @@
+Left and Right Arrow keys switch
+
+Only member in front will take damage
+
+Space bar attacks
